@@ -1,0 +1,13 @@
+﻿Billentxűzet: Hama uRage Exodus 420 CyberBoard
+Egér: Hama uRage Illuminated2 Reaper 200
+Monitor: LG 29UM69G-B
+
+
+Ház: Zalman I3 EDGE
+Táp: Corsair RM750x 750W 80+ Gold
+CPU: AMD Ryzen 5 5600G
+CPU cooler: DeepCool GAMMAXX L240 V2
+Alap: ASRock B550 Phantom Gaming 4 AC alaplap AMD AM4
+RAM: G.Skill Aegis 2x8GB 3200MHz DDR4 F4-3200C16D-16GIS
+SSD: Samsung 970 EVO Plus 1TB MZ-V7S1T0BW M.2 SSD
+HDD: Seagate 2TB BarraCuda 256MB ST2000DM008
